@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "poetry-chad"
-version = "0.1.0"
-description = ""
+version = "0.1.1"
+description = "Learn-by-doing python package"
 authors = ["DevonPeroutky <devonperoutky@gmail.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
